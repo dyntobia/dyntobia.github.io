@@ -1,6 +1,6 @@
-title: dyntobia.github.io
-description: of the many things that go through my head
-theme: minima
+title: title
+description: description
+theme: default
 plugins:
   - jekyll-feed
 header_pages:
