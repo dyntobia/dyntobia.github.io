@@ -1,0 +1,5 @@
+title: dyntobia.github.io
+description: of the many things that go through my head
+theme: minima
+plugins:
+  - jekyll-feed
