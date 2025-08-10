@@ -3,3 +3,6 @@ description: of the many things that go through my head
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - index.md
+  - blog.md
